@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jean-Loup, an engineering student at EPITA from France with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
 
-<a href="https://jean-loup-de-beauminy.000webhostapp.com/">--personal website--</a>
+<a about="_blank" href="https://jean-loup-de-beauminy.000webhostapp.com/">--personal website--</a>
 
 
 Languages and tools :
