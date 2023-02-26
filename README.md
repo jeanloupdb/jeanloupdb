@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Jean-Loup, an engineering student at EPITA from <span style="background-color:blue;">Fr</span><span>an</span><span>ce</span> with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
+### Hi there 👋  I'm Jean-Loup, an engineering student at EPITA from <span style="background-color:blue;color: blue;">Fr</span><span>an</span><span>ce</span> with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
 
 
 
