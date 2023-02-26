@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Jean-Loup, an engineering student at EPITA with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
+
 Languages and tools :
 
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
