@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Jean-Loup, an engineering student at EPITA from France <img width="20px" src="https://cdn.schoolstickers.com/products/en/819/D50-FRENCH-00.png"> with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
+### Hi there 👋  I'm Jean-Loup, an engineering student at EPITA from France <img width="20px" src="https://user-images.githubusercontent.com/73067971/221419664-92b2c809-1e4f-4479-acc0-d7e2ccc79f29.png"> with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
 
 
 
