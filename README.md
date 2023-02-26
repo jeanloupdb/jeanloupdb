@@ -1,6 +1,4 @@
-### Hi there 👋  I'm Jean-Loup, an engineering student at EPITA from France <img width="20px" src="https://user-images.githubusercontent.com/73067971/221418924-7d090774-4062-4e83-b3f8-ac0b14973fa7.png">
-
- with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
+### Hi there 👋  I'm Jean-Loup, an engineering student at EPITA from France <img width="20px" src="https://user-images.githubusercontent.com/73067971/221418924-7d090774-4062-4e83-b3f8-ac0b14973fa7.png"> with a passion for coding. When I'm not tinkering with code and building cool things, I'm on a mission to squash pesky bugs."
 
 
 
