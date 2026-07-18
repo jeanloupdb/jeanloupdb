@@ -74,7 +74,7 @@ persistants, exécution distribuée, missions cross-machine, tableau de bord.
 | Projet | Description |
 |---|---|
 | **DeepProfile** | Analyse automatisée d'emails par agents LLM — architecture hybride Python/NestJS, streaming SSE, conformité RGPD *(Leyton Cognitix)* |
-| **SmartGraph** | Modélisation visuelle de règles de calcul métier sur graphe relationnel *(Leyton Cognitix)* |
+| **[SmartGraph](https://smartgraph.vercel.app)** | Modélisation visuelle de règles de calcul métier sur graphe relationnel *(Leyton Cognitix)* |
 | **[Indice Fossile](https://indicefossile.fr)** | Plateforme et API d'évaluation de l'impact environnemental des produits alimentaires |
 | **Centrale météo** | Carte électronique double face sous KiCad : alimentation régulée, chaîne d'acquisition analogique, ESP32, I2C |
 
